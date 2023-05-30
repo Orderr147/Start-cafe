@@ -206,6 +206,7 @@ function openWhatsapp() {
 
 }
 
+
 // Did not work out code
 // let totalAmount = 0;
 // let foodNameClickedArray = [];
