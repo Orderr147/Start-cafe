@@ -200,7 +200,7 @@ function openWhatsapp() {
     }
 
     let wTxtEncoded = encodeURI(wTxt);
-    window.open("https://api.whatsapp.com/send?phone=1010656793&text=" + wTxtEncoded);
+    window.open("https://wa.me/201010656793?text=" + wTxtEncoded);
   }
 
 
